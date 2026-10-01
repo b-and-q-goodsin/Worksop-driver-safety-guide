@@ -12,11 +12,11 @@
 - [ ] Decision on 10 mph: the sheet gives no km/h, so check drivers from mainland Europe read it correctly
 
 ## Translations (repeat for each language)
-- [ ] French reviewed and signed off
-- [ ] Romanian reviewed and signed off
-- [ ] Polish reviewed and signed off
-- [ ] Russian reviewed and signed off
-- [ ] Reviewer name and date recorded in translation-review.csv
+- [ ] French, Romanian, Polish and Russian each reviewed and signed off
+- [ ] Bulgarian, Ukrainian, Lithuanian, Latvian each reviewed and signed off
+- [ ] Portuguese, Spanish, German and Turkish each reviewed and signed off
+- [ ] Reviewer name and date recorded on each sheet in the translation-review folder
+- [ ] Each reviewer has read the page on a phone and listened to it
 - [ ] Language set to true in REVIEWED only after sign-off
 - [ ] Safety terms agreed (split coupling, wheel stops, fixed chocks, near miss)
 
@@ -27,10 +27,10 @@
 - [ ] Opens without sign-in
 - [ ] Language tap moves to the welcome page
 - [ ] Acknowledgement needs all three boxes
-- [ ] Long rule text fits on a small screen in all five languages (Russian and Romanian are longest)
+- [ ] Long rule text fits on a small screen in all languages (Russian, Romanian and Lithuanian are longest)
 
 ## Voice
-- [ ] voice-test.html run on Android and iPhone, results noted for all five languages
+- [ ] voice-test.html run on Android and iPhone, results noted for all 13 languages
 - [ ] Voices rated Human, OK or Robotic in voice-test.html, and a decision made for any language rated Robotic (recording, or a better voice installed on staff phones)
 - [ ] Read this page works first time on Android Chrome (voices load late there)
 - [ ] Read this page works on iPhone Safari

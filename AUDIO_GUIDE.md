@@ -21,7 +21,7 @@ Put files in these folders, with these exact names:
 | Acknowledgement | s6.mp3 |
 | Done | s7.mp3 |
 
-Folders: `audio/en`, `audio/fr`, `audio/ro`, `audio/pl`, `audio/ru`. That is 6 files per language.
+Folders are named by language code: `audio/en`, `audio/fr`, `audio/ro`, `audio/pl`, `audio/ru`, `audio/bg`, `audio/uk`, `audio/lt`, `audio/lv`, `audio/pt`, `audio/es`, `audio/de`, `audio/tr`. That is 6 files per language, 78 in all for 13 languages. Only record the languages you will actually launch.
 
 `audio-scripts.csv` has the exact text for every file. Read it word for word.
 
